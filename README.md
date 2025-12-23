@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @erinkittrick
-- 👀 I’m interested in learning more about coding to help in my pusuit of UX Design. 
+- 👀 I’m interested in learning more about coding to help in my pursuit of UX Design. 
 - 🌱 I’m currently learning CSS
 
 <!---
